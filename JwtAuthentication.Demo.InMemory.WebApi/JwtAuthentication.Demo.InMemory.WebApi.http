@@ -1,0 +1,6 @@
+@JwtAuthentication.Demo.InMemory.WebApi_HostAddress = http://localhost:5158
+
+GET {{JwtAuthentication.Demo.InMemory.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
